@@ -1,3 +1,4 @@
+
 # LGC Software Developer Project Ideas and Resources ⚡💙⚡
 
 Have you ever wanted to build something but didn’t know where to start? Just like writers experience “writer’s block,” developers can also struggle with a lack of inspiration. This curated list is designed to eliminate that problem once and for all! 👍
